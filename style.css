@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none; /* Removes the default bullet points */
+    padding: 0; /* Removes the default padding on the left */
+    margin: 0; /* Resets the default margin */
+}
+li {
+    padding: 8px; /* Adds some space around each list item */
+    background-color: #f0f0f0; /* Adds a background color to each list item */
+    margin-bottom: 2px; /* Adds space between list items */
+}
+img {
+    margin-right: 5px; /* Adds space between the icon and text */
+    vertical-align: middle; /* Aligns the icon with the text */
+}
+#email a {
+    color: #000;
+    text-decoration: none;
+}
+
+#email a:hover {
+    color: #007bff;
+}
